@@ -7,6 +7,10 @@
 - u04a Klasse cSchienenfahrzeuge
 - u05c Klasse cComplex
 - u06a Klasse cSchachfeld
+- u07a Klasse cBruch
+- u08g Klasse cZeigeskala
+- PNG-Aufgabe
+- Auto-Aufgabe
 
 
 Hausaufgaben:
